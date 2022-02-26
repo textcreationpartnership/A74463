@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the exposing to sale divers castles, houses, parks, lands and hereditaments belonging to the late King, Queen or Prince, exempted from sale by a former act. Friday the 31th of December, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74463</idno>
+            <idno type="STC">Thomason E1061_86</idno>
+            <idno type="STC">ESTC R209373</idno>
+            <idno type="EEBO-CITATION">99868253</idno>
+            <idno type="PROQUEST">99868253</idno>
+            <idno type="VID">169134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169134)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[86])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the exposing to sale divers castles, houses, parks, lands and hereditaments belonging to the late King, Queen or Prince, exempted from sale by a former act. Friday the 31th of December, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1913-1922.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>On 14Z2r: last word of first line of text: "Par-"; first word of line below initial: "Middlesex,"; last word of last line: "Mansion-house".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crown lands --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Regalia --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169134:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <p>AN ACT FOR THE Expoſing to Sale divers Caſtles, Houſes, Parks, Lands and Hereditaments Belonging to the late KING, QUEEN OR PRINCE, Exempted from Sale by a former ACT.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Friday the 31<hi rend="sup">th</hi> of <hi>December,</hi> 1652.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169134:2"/>
+            <!-- PDF PAGE 59 -->
+            <pb n="1913" facs="tcp:169134:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <head>AN ACT FOR THE Expoſing to Sale divers Caſtles, Houſes, Parks, Lands and Hereditaments Belonging to the late KING, QUEEN or PRINCE, Exempted from Sale by a former ACT.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted by this preſent Par<g ref="char:EOLhyphen"/>liament and the Authority there<g ref="char:EOLhyphen"/>of, That for Raiſing of Money for the Vſe of the Navy, The Manſion houſe commonly called <hi>Hampton-Court,</hi> in the County of <hi>Middleſex,</hi> with the Barns, Stables, Out<g ref="char:EOLhyphen"/>houſes, Gardens, Orchards, Yards, Court and Back-ſide, belonging unto, or uſed or en<g ref="char:EOLhyphen"/>joyed with the ſaid Manſion-houſe; with the Park commonly called the <hi>Houſe-Park,</hi> and the two other Parks there, the one called the <hi>Middle Park,</hi> and the other called <hi>Buſhy-Park,</hi> at <hi>Hampton-Court,</hi> within the ſaid county of <hi>Mid<g ref="char:EOLhyphen"/>dleſex;</hi> and the Hare-warren and the Meadows therewith uſed and enjoyed, and all other Lands Woods and Timber thereunto belong<g ref="char:EOLhyphen"/>ing and yet unſold: All that Park commonly called <hi>Hide-Park,</hi> in the county of <hi>Middleſex,</hi> with all houſes, Woods and Perquiſits there<g ref="char:EOLhyphen"/>unto belonging: And all that Manſion-houſe
+<pb n="1914" facs="tcp:169134:3"/>
+               <!-- PDF PAGE 60 -->commonly called <hi>Greenwich-houſe,</hi> in the coun<g ref="char:EOLhyphen"/>ty of <hi>Kent,</hi> with all the Barns, Stables, Out<g ref="char:EOLhyphen"/>houſes, Yards, Orchards, Gardens, Eaſe<g ref="char:EOLhyphen"/>ments and Appurtenances thereunto belong<g ref="char:EOLhyphen"/>ing, and therewith uſually enjoyed; And all that Park near or adjoyning to the ſaid Man<g ref="char:EOLhyphen"/>ſion houſe called, <hi>Greenwich-Park,</hi> with the Ca<g ref="char:EOLhyphen"/>ſtle therein, ſcituate in the ſaid county of <hi>Kent;</hi> And all thoſe Buildings commonly known by the name of the <hi>Queens New-buildings,</hi> and the Gardens, Orchards, Yards, Courts and Back ſides, belonging unto and now uſed and enjoyed with the ſaid Houſe in <hi>Greenwich</hi> afore<g ref="char:EOLhyphen"/>ſaid: And all that Park adjoyning to the Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Windſor,</hi> in the county of <hi>Berks,</hi> common<g ref="char:EOLhyphen"/>ly called the <hi>Little Park,</hi> together with all thoſe Meadows unto the ſaid Park adjoyning, com<g ref="char:EOLhyphen"/>monly called the <hi>Kings Meadows</hi> or <hi>Park Mea<g ref="char:EOLhyphen"/>dows:</hi> The Park called <hi>Cornbury Park,</hi> with the Appurtenances, in the county of <hi>Oxford:</hi> The Houſe called <hi>Vawx-hall,</hi> in the county of <hi>Surrey,</hi> with the Grounds and Appurtenances there<g ref="char:EOLhyphen"/>unto belonging; and all Eaſements, Heredita<g ref="char:EOLhyphen"/>ments and Appurtenances to the aforeſaid Premiſes and every of them belonging, or uſually therewith enjoyed as part, parcel or member thereof, on the Firſt day of <hi>April</hi> in the year of our Lord One thouſand ſix hundred thirty and five or at any time ſince, or for which the late King, Queen or Prince, or any or ei<g ref="char:EOLhyphen"/>ther of them have or hath been anſwered the Profits, or have otherwiſe received the ſame the day and year aforeſaid or at any time ſince: And all that Houſe, with the Appurtenances, commonly called <hi>Somerſet</hi> or <hi>Denmark-Houſe,</hi> ſci<g ref="char:EOLhyphen"/>tuate in the <hi>Strand,</hi> in the ſaid county of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and all the Buildings and Out-houſes
+<pb n="1915" facs="tcp:169134:3"/>
+               <!-- PDF PAGE 60 -->thereunto adjoyning and appertaining, and now uſed with the ſame; and the Gardens, Orchards, Yards, Courts and Back-ſides be<g ref="char:EOLhyphen"/>longing unto and now uſed with the ſaid Houſe: All which Caſtles, Houſes, Parks, Lands and Hereditaments, with all and ſin<g ref="char:EOLhyphen"/>gular their and every of their Appurtenances; Except the Liberty, Immunity &amp; Priviledge of all Waters, Water-courſes, Conduits, Pipes, Ponds, Sluces, Bays, Dams, or o<g ref="char:EOLhyphen"/>ther Inſtruments and things now or hereto<g ref="char:EOLhyphen"/>fore uſed for the carrying or conveying of Wa<g ref="char:EOLhyphen"/>ter, in or through any the Houſes, Lands or Premiſes, are and ſhall be by Authority of this preſent Parliament, veſted and ſetled, ad<g ref="char:EOLhyphen"/>judged, deemed and taken to be in the Actual poſſeſsion and ſeiſin of <hi>Thomas Cook</hi> of <hi>Ped<g ref="char:EOLhyphen"/>marſh</hi> in the County of <hi>Eſſex</hi>
+               <abbr>Eſq</abbr>
+               <hi>William Boſſe<g ref="char:EOLhyphen"/>vile</hi>
+               <abbr>Eſq</abbr>
+               <hi>John Sparrow</hi> of <hi>Geſtrop</hi> in the County of <hi>Eſſex</hi>
+               <abbr>Eſq</abbr>
+               <hi>William Kenrick</hi> of in the County of <hi>Kent</hi>
+               <abbr>Eſq</abbr>
+               <hi>Ralph Harriſon</hi> of the City of <hi>London</hi>
+               <abbr>Eſq</abbr>
+               <hi>William Scot</hi> of the <hi>Inner-Temple London</hi>
+               <abbr>Eſq</abbr>
+               <hi>William Steel</hi>
+               <abbr>Eſq</abbr> Councellor at Law; <hi>Thomas Hubbard</hi> of <hi>Moor-fields</hi> in the County of <hi>Middleſex</hi>
+               <abbr>Eſq</abbr>
+               <hi>Cornelius Cook</hi> of the Borough of <hi>Southwark</hi>
+               <abbr>Eſq</abbr>
+               <hi>John Hunt</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi>
+               <abbr>Eſq</abbr> Sir <hi>Edward Barkham</hi> Baronet, Sir <hi>William Roberts, Thomas Airs</hi>
+               <abbr>Eſq</abbr>
+               <hi>John White</hi>
+               <abbr>Eſq</abbr>
+               <hi>James Stockall</hi>
+               <abbr>Eſq</abbr>
+               <hi>Edward Creſſet</hi> Gent. Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Salſtonſtal</hi> Knight, <hi>Daniel Searl</hi> Merchant, <hi>Nicholas Lampriere</hi>
+               <abbr>Eſq</abbr>
+               <hi>Nicholas Bond</hi>
+               <abbr>Eſq</abbr>
+               <hi>Ri<g ref="char:EOLhyphen"/>chard Sidenham</hi>
+               <abbr>Eſq</abbr> and <hi>Robert, Fenwick</hi>
+               <abbr>Eſq</abbr> the Survivor and Survivors of them, their Heirs and Aſsigns for ever, under ſuch Truſts and to ſuch purpoſes onely, as are above-mention<g ref="char:EOLhyphen"/>ed, and as ſhall be hereafter declared and ex<g ref="char:EOLhyphen"/>preſſed by Parliament: Saving to all and eve<g ref="char:EOLhyphen"/>ry
+<pb n="1916" facs="tcp:169134:4"/>
+               <!-- PDF PAGE 61 -->perſon and perſons, their Heirs, Executors and Adminiſtrators, Bodies Politique and Corporate, and their Succeſſors, other then the ſaid late King, Queen and Prince, their or any of their Heirs, Executors, Adminiſtrators and Succeſſors, and all claiming by, from or under them or any of them, ſince the Six and twentieth day of <hi>March,</hi> in the year of our Lord One thouſand ſix hundred forty and one, All Right, Title, Intereſt, Poſſeſsion, Right in Law or Equity, Entries, Annuities, Com<g ref="char:EOLhyphen"/>modities, Fees and other Profits, which they or any of them now have, and of right ought to have and enjoy, before the ſaid ſix and twen<g ref="char:EOLhyphen"/>tieth day of <hi>March,</hi> One thouſand ſix hundred forty and one; ſo as ſuch perſon or perſons do make his or their Title in Law or Equity ap<g ref="char:EOLhyphen"/>pear, at or before the Firſt day of <hi>February,</hi> One thouſand ſix hundred fifty and two, unto the Commiſsioners for removing of Obſtructi<g ref="char:EOLhyphen"/>ons, named in one Act, Entituled, <hi>An Act for transferring the Powers of the Committees for Ob<g ref="char:EOLhyphen"/>ſtructions;</hi> which ſaid Commiſsioners are here<g ref="char:EOLhyphen"/>by authorized and appointed Commiſsioners for removing of Obſtructions in ſale of any of the premiſes, and ſhall have the ſame Powers and Authorities, as any Committee or Com<g ref="char:EOLhyphen"/>miſsioners for removing of Obſtructions might or ought to have executed by vertue of any Ordinance or Act of this preſent Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Provided alſo, That where any ſuch perſon or perſons do lawfully claim as aforeſaid, any Right, Title or Intereſt of, in or to any of the Caſtles, Houſes, Parks, Lands and He<g ref="char:EOLhyphen"/>reditaments, by vertue or in right of any Of<g ref="char:EOLhyphen"/>fice thereunto belonging, the exerciſe whereof
+<pb n="1917" facs="tcp:169134:4"/>
+               <!-- PDF PAGE 61 -->is now ceaſed, or by vertue of this Act ſhall ceaſe to be further uſed: That in every ſuch caſe, the Commiſsioners of Obſtructions be<g ref="char:EOLhyphen"/>fore-mentioned, or any five of them, ſhall in lieu and conſideration thereof, make ſuch al<g ref="char:EOLhyphen"/>lowance to every ſuch perſon and perſons, in ſome proportion, of the ſaid Parks, Lands and Hereditaments, or in moneys to be raiſed by the ſale thereof, as they ſhall adjudge rea<g ref="char:EOLhyphen"/>ſonable, with regard had unto the value of their reſpective Intereſts; and that upon and in conſideration of the ſaid Allowances, the Right, Title and Intereſt of every ſuch per<g ref="char:EOLhyphen"/>ſon and perſons, their Heirs, Executors, Ad<g ref="char:EOLhyphen"/>miniſtrators and Aſſigns, ſhall ceaſe and deter<g ref="char:EOLhyphen"/>mine; and they and every of them ſhall be for ever hereby clearly concluded and debarred from making any further claim or demand thereunto. And the ſaid Truſtees and Con<g ref="char:EOLhyphen"/>tractors, their Heirs and Aſſigns, ſhall hold all and ſingular the Caſtles, Houſes, Parks, Lands and Premiſes, and every part thereof, as of the Manor or Seigniory of Eaſt. <hi>Green<g ref="char:EOLhyphen"/>wich,</hi> in Free and Common Soccage, by Fealty onely; and likewiſe freed, acquitted and diſ<g ref="char:EOLhyphen"/>charged, of and from payment of all maner of Tithes, as fully as the late King, Queen or Prince, or any of them, did or might hold or enjoy, or ought to have held or enjoyed the ſame.</p>
+            <p>And be it further Enacted, That <hi>William Web</hi> and <hi>Silvanus Tailor,</hi> appointed by Autho<g ref="char:EOLhyphen"/>rity of Parliament to ſurvey the before-men<g ref="char:EOLhyphen"/>tioned Premiſes, ſhall have the like Powers and Authorities as any the Surveyors in one Act of Parliament, Entituled, <hi>An Act of the Commons in PARLIAMENT aſſembled,
+<pb n="1918" facs="tcp:169134:5"/>
+                  <!-- PDF PAGE 62 -->For Sale of the Honors, Manors and Lands heretofore belonging to the late King, Queen and Prince,</hi> may or might have exerciſed: And the ſaid Truſtees and Contractors, or any five or more of them, ſhall and may, upon Return of any Survey of the Premiſes or any part there<g ref="char:EOLhyphen"/>of, made and returned to the ſaid <hi>William Web</hi> and <hi>Silvanus Tailor,</hi> and thereupon giving pub<g ref="char:EOLhyphen"/>lique notice, by the ſpace of Ten days, what part or parcel of the Premiſes the ſaid Tru<g ref="char:EOLhyphen"/>ſtees and Contractors, or any five or more of them, will then expoſe to Sale upon that day; who thereupon ſhall and may contract with any perſon or perſons, Body Politique or Cor<g ref="char:EOLhyphen"/>porate, who will give moſt for the ſame, not ſelling any Land under Thirteen years value, and ſelling the Houſes, Wood and Timber, at the beſt Advantage for the Commonwealth: And upon paying into the hands of the Trea<g ref="char:EOLhyphen"/>ſurers in the laſt recited Act named, One moy<g ref="char:EOLhyphen"/>ety or more of the Purchaſe-money contracted for, within Twenty days after making the Contract; and ſecuring the reſt in ſuch maner as the ſaid Truſtees and Contractors, or any five or more of them ſhall direct, to be paid within Three moneths after the ſaid Contract made, the ſaid Truſtees and Contractors, or any five or more of them, ſhall make a Convey<g ref="char:EOLhyphen"/>ance of Bargain and Sale thereof; which be<g ref="char:EOLhyphen"/>ing ſealed, ex<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ted and inrolled in the Chan<g ref="char:EOLhyphen"/>cery, ſhall be good and effectual in Law to ſuch Purchaſer or Purchaſers, their Heirs and Aſ<g ref="char:EOLhyphen"/>ſigns for ever, according to the intent and pur<g ref="char:EOLhyphen"/>port thereof.</p>
+            <p>Provided, That if any Purchaſer or Pur<g ref="char:EOLhyphen"/>chaſers, after his or their Contract made, do or ſhall not proceed therein accordingly, That
+<pb n="1919" facs="tcp:169134:5"/>
+               <!-- PDF PAGE 62 -->then the ſaid Contract ſhall be void; and the ſaid Purchaſer or Purchaſers ſhall forfeit the fourth part of the money contracted for, to the Vſes in this Act named, and ſhall have his or their Eſtates ſequeſtred, by Warrant from the ſaid Truſtees and Contractors or any five or more of them, until the ſaid Fourth part of the money contracted for be paid unto the ſaid Treaſurers, who thereupon ſhall diſcharge the ſaid Sequeſtration; And the ſaid Truſtees and Contractors, or any five or more of them, ſhall and may proceed with any other perſon or perſons for the ſame.</p>
+            <p>And be it further Enacted, That the ſaid Treaſurers, or any two of them, ſhall receive all ſuch ſums of money as ſhall be paid by ver<g ref="char:EOLhyphen"/>tue of this Act, and ſhall give Receipts or Ac<g ref="char:EOLhyphen"/>quittances for the ſame; and ſhall iſſue out all ſuch moneys, in ſuch maner as the Parlia<g ref="char:EOLhyphen"/>ment or any Authority derived from them to that purpoſe, ſhall from time to time direct or appoint.</p>
+            <p>And be it further Enacted, That <hi>Henry Col<g ref="char:EOLhyphen"/>born</hi> ſhall be Regiſter, and ſhall and do execute all things as a Regiſter may or might do by vertue of the laſt recited Act.</p>
+            <p>And be it further Enacted, That the ſaid Truſtees and Contractors, or any five or more of them, ſhall and may appoint Councel for the Commonwealth, and a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> other Officers neceſſary for the carrying on and expedition of the ſale of the Premiſes.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all and every Reverſion and Reverſions, Remainder and Remainders of any Honors, Manors, Caſtles, Houſes, Meſ<g ref="char:EOLhyphen"/>ſuages, Chaſes, Parks, Lands, Tenements
+<pb n="1920" facs="tcp:169134:6"/>
+               <!-- PDF PAGE 63 -->or Hereditaments, with their and every of their Appurtenances, and of all Royalties, Franchiſes, Priviledges and Immunities, to all and every of them belonging or appertain<g ref="char:EOLhyphen"/>ing, or therewith lawfully uſed, occupied or enjoyed, as part or parcel thereof, which were lawfully veſted, ſetled, remaining or being in the ſaid late King, as in Right of the Crown of <hi>England,</hi> or Dutchy of <hi>Lancaſter,</hi> on the Six and twentieth day of <hi>March,</hi> in the year of our Lord God One thouſand ſix hundred forty and one, or at any time ſince expectant upon any Eſtate Tail, Are and ſhall be veſted and ſetled in the Truſtees and Contractors appointed by this Act, for the Sale of the ſaid other Lands herein before mentioned, their Heirs and Aſ<g ref="char:EOLhyphen"/>ſigns, as the ſaid other Lands are by ver<g ref="char:EOLhyphen"/>tue of this Act, and to and for the ſame uſes; and ſhall be under the ſame Powers, Rules, Orders and Directions, as the ſaid other Lands are by this Act: And that the ſaid Truſtees and Contractors, or any five or more of them, ſhall have the like power and autho<g ref="char:EOLhyphen"/>rity, and are hereby authorized and required to Contract for, Bargain and ſell (by Deed or Deeds, ſealed and inrolled according to this Act) All and every the ſaid Reverſion and Re<g ref="char:EOLhyphen"/>verſions, Remainder or Remainders, to the reſpective Tenant or Tenants in Tail of any of the Premiſes (that ſhall deſire to buy the ſame) coming in before the Eight and twenti<g ref="char:EOLhyphen"/>eth day of <hi>February,</hi> One thouſand ſix hundred fifty and two; or to any perſon or perſons, Bodies Politique or Corporate, that ſhall or will buy or purchaſe, and give moſt for the ſame, at ſuch Values and Prices as the ſaid Truſtees and Contractors (or any five or more
+<pb n="1921" facs="tcp:169134:6"/>
+               <!-- PDF PAGE 63 -->of them) ſhall think meet and convenient, for the beſt advantage of the Commonwealth: And that all and every ſuch contract, bargain and ſale, conveyance and aſſurance, ſhall be good and effectual in Law, to all intents and purpoſes, to all and every ſuch Purchaſer and Purchaſers, their Heirs and Aſſigns; and that they and every of them ſhall and may have, hold and enjoy, all and every the ſaid Reverſion and Reverſions, Remainder and Remainders, in as large, ample and beneficial maner, as the ſaid late King or Crown law<g ref="char:EOLhyphen"/>fully had or held, or might lawfully have had, held or enjoyed the ſame, Any Fine or Fines, Recovery or Recoveries, Conveyance or Aſſu<g ref="char:EOLhyphen"/>rance, or other Act or thing whatſoever had, made, levied, done or ſuffered, or to be had, made, levied, done or ſuffered, by any Tenant or Tenants in Tail in poſſeſsion, not having the Reverſion or Remainder in Fee-ſimple of the ſame premiſes, whereof ſuch Fine or Re<g ref="char:EOLhyphen"/>covery is ſo had; or by any other perſon or per<g ref="char:EOLhyphen"/>ſons, by their or any of their aſſent, means or procurement (other then ſuch Leaſes as have been or ſhall be made of all or any the premiſes, according to the Statute of the Two and thir<g ref="char:EOLhyphen"/>tieth year of King <hi>Henry</hi> the Eighth, in that be<g ref="char:EOLhyphen"/>half made) in any wiſe notwithſtanding. And that all and every ſuch fine or fines, recovery or recoveries, conveyance or aſſurance, or other Act or thing, other then by ſuch Tenant in Tail in Poſſeſſion, not having the Reverſion or Remainder in Fee-ſimple of the premiſes, whereof ſuch Fine or Recovery is ſo had, ſhall be utterly void and of no effect, as well a<g ref="char:EOLhyphen"/>gainſt the ſaid Truſtees, their Heirs and Aſ<g ref="char:EOLhyphen"/>ſigns, as againſt all and every ſuch Purchaſer
+<pb n="1922" facs="tcp:169134:7"/>
+               <!-- PDF PAGE 64 -->or Purchaſers, their Heirs and Aſſigns, as the ſame ſhould have been againſt the ſaid late King, his Heirs and Succeſſors or any of them, according to the Statute of the Four and thirtieth year of the ſaid King <hi>Henry</hi> the Eighth, <hi>Cap. 20.</hi> concerning Recoveries a<g ref="char:EOLhyphen"/>gainſt ſuch Tenants in Tail, as if the ſaid Re<g ref="char:EOLhyphen"/>verſion or Reverſions, Remainder or Remain<g ref="char:EOLhyphen"/>ders, had continued, remained or been in the ſaid late King or Crown, at the time of ſuch Fine or Recovery or other Aſſurance; The ſaid premiſes to be holden of the Manor of Eaſt-<hi>Greenwich,</hi> in Free and Common Soccage, by Fealty onely, and not otherwiſe: Saving to all and every perſon and perſons, Bodies Po<g ref="char:EOLhyphen"/>litique and Corporate, other then the ſaid late King, his Heirs and Succeſſors, and all claim<g ref="char:EOLhyphen"/>ing from, by or under them or any of them, ſince the Twenty ſixth day of <hi>March,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty and one, All Right, Ti<g ref="char:EOLhyphen"/>tle, Intereſt, Poſſeſſion, Entries, Annuities, Commodities, Fees and other Profits, which they or any of them now have, or of right ought to have and enjoy, ſince the ſaid Twen<g ref="char:EOLhyphen"/>ty ſixth of <hi>March,</hi> One thouſand ſix hundred forty and one.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
